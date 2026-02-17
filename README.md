@@ -1,4 +1,4 @@
-A queue follows the First In First Out (FIFO) principle �.
+A queue follows the First In First Out (FIFO) principle.
 datastructures and Algorithms.pdf None
 Applications:
 Printer task scheduling
