@@ -1,5 +1,5 @@
 # Data-Structures-Assignment
-Group assignment  BBIT/2025/40521
+Group assignment  
 Data structures are classified into two main branches:
 Linear Data Structures
 Linear data structures store elements in a sequential order. Each element is connected to the next in a single line.
